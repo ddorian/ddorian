@@ -2,6 +2,8 @@ My contributions:
 
 * [PgMQ](https://github.com/tembo-io/pgmq)
 * [flask_smorest](https://github.com/marshmallow-code/flask-smorest)
+* [/yugabyte/rrdiagram](https://github.com/yugabyte/RRDiagram)
+* [/yugabyte/cassandra-python-drivr](https://github.com/yugabyte/cassandra-python-driver)
 
 # presentations
 A list of presentations that I've made.
