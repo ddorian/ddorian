@@ -4,6 +4,7 @@ My contributions:
 * [flask_smorest](https://github.com/marshmallow-code/flask-smorest)
 * [/yugabyte/rrdiagram](https://github.com/yugabyte/RRDiagram)
 * [/yugabyte/cassandra-python-drivr](https://github.com/yugabyte/cassandra-python-driver)
+* [/moonlitesolutions/SolrClient](https://github.com/moonlitesolutions/SolrClient)
 
 # presentations
 A list of presentations that I've made.
