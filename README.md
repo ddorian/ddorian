@@ -5,6 +5,7 @@ My contributions:
 * [/yugabyte/rrdiagram](https://github.com/yugabyte/RRDiagram)
 * [/yugabyte/cassandra-python-drivr](https://github.com/yugabyte/cassandra-python-driver)
 * [/moonlitesolutions/SolrClient](https://github.com/moonlitesolutions/SolrClient)
+* [/moonlitesolutions/SolrVagrant](https://github.com/moonlitesolutions/SolrVagrant)
 
 A list of presentations that I've made:
 
