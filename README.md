@@ -5,6 +5,7 @@ My contributions:
 * [/marshmallow-code/flask_smorest](https://github.com/marshmallow-code/flask-smorest)
 * [/marshmallow-code/apispec](https://github.com/marshmallow-code/apispec)
 * [/websideproject/paddle-billing-client](https://github.com/websideproject/paddle-billing-client)
+* [/xhluca/dl-translate](https://github.com/xhluca/dl-translate)
 * [/yugabyte/rrdiagram](https://github.com/yugabyte/RRDiagram)
 * [/yugabyte/cassandra-python-drivr](https://github.com/yugabyte/cassandra-python-driver)
 * [/moonlitesolutions/SolrClient](https://github.com/moonlitesolutions/SolrClient)
