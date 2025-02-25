@@ -1,5 +1,6 @@
 My contributions:
 
+* [/luolingchun/flask-openapi3](https://github.com/luolingchun/flask-openapi3)
 * [/tembo-io/PgMQ](https://github.com/tembo-io/pgmq)
 * [/grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache)
 * [/marshmallow-code/flask_smorest](https://github.com/marshmallow-code/flask-smorest)
